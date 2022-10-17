@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(193, 202, 241);
+    opacity: 0,5;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+    border: 1px solid rgb(130, 14, 200);
+    padding: 30px;
+}
+
+h1 {
+    color: rgb(34, 34, 236);
+    margin-left: 300 px;
+    font-family: courier;
+    padding: 30px
+}
+
+h2 {
+    color: rgb(34, 34, 236);
+    margin-left: 150 px;
+    font-family: courier;
+    padding: 30px
+
+}
+
+p {
+    color: rgb(34, 34, 236);
+    margin-left: 150 px;
+    font-family: courier;
+    padding: 30px
+}
+
+ul {
+    color: rgb(34, 34, 236);
+    margin-left: 150 px;
+    font-family: courier;
+    padding: 30px
+}
